@@ -97,12 +97,12 @@ PDMan是由国内知名金融IT上市公司，内部研发团队设计的一款�
 
 **数据类型以及数据域：**
 ![](https://gitee.com/uploads/images/2019/0411/112019_1641bb4f_24669.jpeg)
-![](https://oscimg.oschina.net/oscnet/80547a25e2f57c4ec107df1501aca9581fa.jpg)
+![](https://images.gitee.com/uploads/images/2020/0101/223333_63fb6ed2_24669.jpeg)
 ![](https://images.gitee.com/uploads/images/2019/0527/114326_2bbc4e40_24669.jpeg)
 ![](https://images.gitee.com/uploads/images/2019/0527/114326_4a735cf7_24669.jpeg)
 
 **脚本导出：**
-![](https://oscimg.oschina.net/oscnet/5ac2315c047e3de1a03052666cda7a24d21.jpg)
+![](https://images.gitee.com/uploads/images/2020/0101/223333_c391c2a8_24669.jpeg)
 导出特定类型的脚本 
 ![](https://gitee.com/uploads/images/2019/0411/112024_0135071c_24669.jpeg)
 
@@ -145,10 +145,9 @@ PDMan是由国内知名金融IT上市公司，内部研发团队设计的一款�
 -   [Linux](https://gitee.com/robergroup/pdman/attach_files)
 
 #### 欢迎加钉钉群交流
-*** 钉钉一群已满 ***
-![](https://static.oschina.net/uploads/img/201806/01151807_3YY6.jpg "")
-*** 请加钉钉二群 ***
-![](https://images.gitee.com/uploads/images/2019/0527/114326_b7a4d632_24669.png ".png")
+*** 钉钉一群 ***
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0101/223532_6021b767_24669.jpeg "WechatIMG807.jpeg")
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0101/223544_9928fbbc_24669.jpeg "WechatIMG808.jpeg")
 #### 捐赠作者
 ![输入图片说明](https://gitee.com/uploads/images/2019/0411/183645_ee6e3e21_24669.png "屏幕截图.png")
 ![输入图片说明](https://gitee.com/uploads/images/2019/0411/183709_92999b1a_24669.png "屏幕截图.png")
