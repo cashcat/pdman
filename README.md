@@ -144,6 +144,12 @@ PDMan是由国内知名金融IT上市公司，内部研发团队设计的一款�
 -   [Mac](https://gitee.com/robergroup/pdman/attach_files)
 -   [Linux](https://gitee.com/robergroup/pdman/attach_files)
 
+#### 可以下载官网示例数据库
+```bash
+git clone git@github.com:datacharmer/test_db.git
+```
+
+
 #### 欢迎加钉钉群交流
 *** 钉钉一群 ***
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/0101/223532_6021b767_24669.jpeg "WechatIMG807.jpeg")
